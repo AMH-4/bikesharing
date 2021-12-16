@@ -2,12 +2,32 @@
 *Use Tableau to perform analysis on NCY bike sharing data*
 
 
-## Overview:
+## Overview of Project:
+
+#### *Purpose:*
+The purpose of this project is to create a data driven story using Tableu. This story will be used in a final pitch presentation set to potential business investors. The business idea is to bring bikesharing to Des Moines. The following visulations were created using bikesharing data from NYC CitiBikes in August 2019.
 
 
-## Results:
+## Results 
 
-![Retiring_Titles)Results](Retring_Titles_Results.png)
+#### *Visualizations:*
+
+1. Top Starting and Ending Locations 
+![Start_Stop_Locations_Viz](StartStop_Locations_Viz.png)
+
+2. Number of Trips, Customer Type, Customer Gender
+![Trips_Customer_Type_Gender_Viz](Trips_Customer_Viz.png)
+
+
+
+
+
+4. Checkout Times for Users
+5. Checkout Times by Gender
+6. Trips by Weekday per Hour
+7. Trips by Gender (Weekday per Hour)
+8. User Trips by Gender by Weekday
+
 
 ## Summary:
 
@@ -21,6 +41,10 @@ Once the given files had been downloaded and named appropriately, the following 
 
 
 
+Now that we've gotten a good idea of how to create our story, there is still some more work to be done to convince investors that a bike-sharing program in Des Moines is a solid business proposal. To solidify the proposal, one of the key stakeholders would like to see a bike trip analysis.
+
+
+Finally, you’ll add these new visualizations to the two you created in this module for your final presentation and analysis to pitch to investors.
 
 
 
