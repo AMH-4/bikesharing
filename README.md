@@ -24,9 +24,14 @@ The purpose of this project is to create a data driven story using Tableu. This 
 4. Checkout Times by Gender
 ![Checkout_Times_for_Users_Gender_Viz](CheckoutTimes_Users_Gender_Viz.png)
 
-6. Trips by Weekday per Hour
-7. Trips by Gender (Weekday per Hour)
-8. User Trips by Gender by Weekday
+5. Trips by Weekday per Hour
+![Trips_Weekday_per_Hour_Viz](Trips_Weekday_per_Hour_Viz.png)
+
+6. Trips by Gender (Weekday per Hour)
+![Trips_by_Gender_Weekday_per_Hour_Viz](Trips_by_Gender_Weekday_per_Hour_Viz.png)
+
+7. User Trips by Gender by Weekday
+![User_Trips_by_Gender_Weekday_Viz](User_Trips_by_Gender_Weekday_Viz.png)
 
 
 ## Summary:
