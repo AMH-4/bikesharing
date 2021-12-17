@@ -52,4 +52,5 @@ Now that we've gotten a good idea of how to create our story, there is still som
 Finally, you’ll add these new visualizations to the two you created in this module for your final presentation and analysis to pitch to investors.
 
 
+[link to dashboard](https://public.tableau.com/app/profile/anna6479/viz/Book1NYC_CitiBike/NYCCitibikeStory)
 
