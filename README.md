@@ -37,20 +37,7 @@ The purpose of this project is to create a data driven story using Tableu. This 
 ## Summary:
 
 
-- Refactor VBA code and measure performance
-This deliverable will include an updated workbook and a folder with PNGs of the pop-ups with script run time.
-
-Once the given files had been downloaded and named appropriately, the following septs were taken to perfomr the above necessary deliverables chronologically :
-
-1. (Step 1a.)Create a tickerIndex variable and set it equal to zero before iterating over all the rows. You will use this tickerIndex to access the correct index across the four different arrays you’ll be using: the tickers array and the three output arrays you’ll create in Step 1b.
 
 
-
-Now that we've gotten a good idea of how to create our story, there is still some more work to be done to convince investors that a bike-sharing program in Des Moines is a solid business proposal. To solidify the proposal, one of the key stakeholders would like to see a bike trip analysis.
-
-
-Finally, you’ll add these new visualizations to the two you created in this module for your final presentation and analysis to pitch to investors.
-
-
-[link to dashboard](https://public.tableau.com/app/profile/anna6479/viz/Book1NYC_CitiBike/NYCCitibikeStory)
+[Link to Tableau Storyboard](https://public.tableau.com/app/profile/anna6479/viz/Book1NYC_CitiBike/NYCCitibikeStory)
 
